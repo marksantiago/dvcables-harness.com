@@ -1,0 +1,29 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+Main Development:      Mark Santiago
+Email:                 marksantiago2011@gmail.com
+Location:              Los Angeles, USA
+
+# THANKS
+
+HTML5 Boilerplate:     For providing incredibly useful best-practices code snippets
+                       https://html5boilerplate.com/
+
+Start Bootstrap:       For the Creative HTML starter theme/template for Bootstrap
+                       https://startbootstrap.com/template-overviews/creative/
+
+HTML CSS Color Picker: For the free online tool for selecting HTML color schemes
+                       http://www.htmlcsscolor.com/
+
+# TECHNOLOGY COLOPHON
+
+Standards:             CSS3, HTML5
+Components:            Apache Server Configs, jQuery, Normalize.css,
+                       Twitter Bootstrap, HTML5 Shiv, Respond.js, Font Awesome,
+                       Google Web Fonts
+Build tool:            Gulp
+Package Manager:       npm
+Software:              Node.js, Notepad++, DiffMerge, XAMPP, Git for Windows

@@ -1,0 +1,53 @@
+{
+  "cssCleanFiles" : [
+    "./intermediate/css/**/*"
+  ],
+  "jsCleanFiles" : [
+    "./intermediate/js/**/*",
+    "!./intermediate/js/vendor",
+    "!./intermediate/js/vendor/*.min.js"
+  ],
+  "cssConcatFiles" : [
+    "./src/css/ie10-viewport-bug-workaround.css",
+    "./src/css/animate.css",
+    "./src/css/main.css"
+  ],
+  "jsConcatFiles" : [
+    "./src/js/plugins.js",
+    "./src/js/jquery.easing.js",
+    "./src/js/jquery.fittext.js",
+    "./src/js/wow.js",
+    "./src/js/creative.js",
+    "./src/js/main.js",
+    "./src/js/ie10-viewport-bug-workaround.js"
+  ],
+  "imgMinFiles" : [
+    "./src/**/*.+(png|jpg|jpeg|gif|svg)"
+  ],
+  "changedCopyFiles" : [
+    "./src/*",
+    "!./src/.htaccess",
+    "./src/inc/*.php",
+    "!./src/inc/environment.php",
+    "./src/pages/**/*.php"
+  ],
+  "intermediateCopyFiles" : [
+    "./intermediate/**/*",
+    "!./intermediate/.htaccess",
+    "./intermediate/img/.gitignore",
+    "./intermediate/css/*.min.css",
+    "!./intermediate/css/styles.css",
+    "!./intermediate/inc/environment.php",
+    "./intermediate/js/*.min.js",
+    "!./intermediate/js/scripts.js",
+    "./intermediate/js/vendor/*.min.js",
+    "!./intermediate/{maps,maps/**/*}"
+  ],
+  "distCleanFiles" : [
+    "./dist/**/*",
+    "!./dist",
+    "!./dist/.htaccess",
+    "!./dist/inc",
+    "!./dist/inc/environment.php"
+  ]
+}
